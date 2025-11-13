@@ -710,26 +710,3 @@ When contributing:
 4. Open a Pull Request with a clear description.
 
 ---
-
-## License
-
-You can choose your own license. Common options:
-
-* [MIT](https://opensource.org/licenses/MIT) – very permissive.
-* [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)
-* Proprietary (if you don’t want others to reuse it freely).
-
-Example (MIT):
-
-```text
-MIT License
-
-Copyright (c) <year> <your-name>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-...
-```
-
-Replace `<year>` and `<your-name>` with your details.
-
----
